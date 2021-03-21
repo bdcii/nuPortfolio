@@ -30,11 +30,6 @@ body{
     margin-right: 25px;
 }
 
-.cardBG {
-    background-color: #15171a
-}
-
-
 
 .footer{
     color:rgb(241, 241, 237);
@@ -45,8 +40,9 @@ body{
 
 
 .footer h3{
+   
     float:left;
-    display: inline-block;
+    /* display: inline-block; */
 }
 
 
