@@ -1,0 +1,56 @@
+body{
+    background-color: #26272b;
+
+}
+
+.header{
+    margin: 0;
+    color:rgb(241, 241, 237);
+    background-color:#15171a ;
+    font-family: Roboto;
+
+}
+
+.header h1{
+   
+    float:left;
+    display: inline-block;
+}
+
+/* .header div ul {
+    list-style-type: none;
+} */
+
+.header div {
+    float:right;
+}
+.header div ul li {
+    display: inline-block;
+    
+    margin-right: 25px;
+}
+
+.cardBG {
+    background-color: #15171a
+}
+
+
+
+.footer{
+    color:rgb(241, 241, 237);
+    background-color:#15171a ;
+    font-family: Roboto;
+
+}
+
+
+.footer h3{
+    float:left;
+    display: inline-block;
+}
+
+
+.footer div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
