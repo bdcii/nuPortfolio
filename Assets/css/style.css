@@ -24,15 +24,12 @@ body{
 .header div {
     float:right;
 }
+
+
 .header div ul li {
     display: inline-block;
     
     margin-right: 25px;
-}
-
-
-#aboutMe {
-    
 }
 
 
